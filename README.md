@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adi Hidayat</h1>
-<h3 align="center">A passionate fullstack developer from Indonesia, with budding skills in both frontend and backend technologies. Eager to contribute to collaborative projects and create impactful digital solutions.</h3>
-- 🌱 I’m currently learning **NodeJS framework for Backend & Frontend : ExpressJS, TypeScript, ReactJS, VueJS**
+<h3>A passionate fullstack developer from Indonesia, with budding skills in both frontend and backend technologies. Eager to contribute to collaborative projects and create impactful digital solutions.</h3>
+🌱 I’m currently learning **NodeJS framework for Backend & Frontend : ExpressJS, TypeScript, ReactJS, VueJS**
 
 <h3 align="left">Languages :</h3>
 <p align="left" style="background-color: white !important;"> 
